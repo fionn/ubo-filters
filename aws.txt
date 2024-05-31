@@ -1,0 +1,9 @@
+! Title: Hide AWS Annoyances
+! Description: Hide UI elements in AWS that are detrimental
+! Version: 0.0.1
+! Last modified: 2024-06-01
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/fionn/ubo-filters
+
+! Hide "Access keys" button
+awsapps.com##a[data-analytics="accounts-list-item-credential-modal-button"]
