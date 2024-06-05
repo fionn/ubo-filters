@@ -43,6 +43,9 @@ twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^More T
 ! Hide "discover more", from https://gist.github.com/fanfare/96da458bc902292542b836a682a4586a
 twitter.com##div[data-testid="cellInnerDiv"]:has(h2):has-text(Discover more) ~ *
 twitter.com##div[data-testid="cellInnerDiv"]:has(h2):has-text(Discover more)
+! Hide useless side bar elements
+twitter.com##[aria-label="Grok"]
+twitter.com##[aria-label="Premium"]
 
 www.sql-join.com##.pipeline-cta-container
 www.sql-join.com###block-yui_3_17_2_2_1481828092704_16110
