@@ -12,3 +12,8 @@ In brief: uBlock Origin > Dashboard > Filter list > Import... and add the URL(s)
 ### AWS
 
 [`https://raw.githubusercontent.com/fionn/ubo-filters/master/aws.txt`](https://raw.githubusercontent.com/fionn/ubo-filters/master/aws.txt)
+
+### Miscellaneous
+
+
+[`https://raw.githubusercontent.com/fionn/ubo-filters/master/misc.txt`](https://raw.githubusercontent.com/fionn/ubo-filters/master/misc.txt)
