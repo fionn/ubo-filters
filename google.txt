@@ -1,0 +1,13 @@
+! Title: Hide Google Annoyances
+! Description: Remove some Google anti-features
+! Version: 0.0.1
+! Last modified: 2024-07-30
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/fionn/ubo-filters
+
+! Remove Gemini
+
+mail.google.com##div > [data-label="Summarise this email"]
+! Specify no aria-label because it's slightly fragile and they'll probably add one.
+mail.google.com##[data-tooltip="Settings"] + div:not(aria-label)
+docs.google.com##span[id="docs-titlebar-share-client-button"] + div[id="docs-sidekick-button-container"]

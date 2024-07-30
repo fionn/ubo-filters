@@ -17,6 +17,11 @@ In brief: uBlock Origin > Dashboard > Filter list > Import... and add the URL(s)
 
 [`https://raw.githubusercontent.com/fionn/ubo-filters/master/twitter.txt`](https://raw.githubusercontent.com/fionn/ubo-filters/master/twitter.txt)
 
+### Google
+
+[`https://raw.githubusercontent.com/fionn/ubo-filters/master/google.txt`](https://raw.githubusercontent.com/fionn/ubo-filters/master/google.txt)
+
+
 ### Miscellaneous
 
 [`https://raw.githubusercontent.com/fionn/ubo-filters/master/misc.txt`](https://raw.githubusercontent.com/fionn/ubo-filters/master/misc.txt)
