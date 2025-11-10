@@ -1,7 +1,7 @@
 ! Title: Miscellaneous
 ! Description: Collection of cosmetic filters that improve various websites
 ! Version: 0.0.1
-! Last modified: 2024-06-05
+! Last modified: 2025-11-10
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/fionn/ubo-filters
 
@@ -26,3 +26,8 @@ developers.google.com##.devsite-banner-announcement.devsite-banner
 www.newyorker.com##.paywall-bar__expanded.paywall-bar__wrapper
 
 objective-see.com##.blogContent > div:nth-of-type(4)
+
+! Remove "Code with agent mode" button in issues and "Copilot Settings" in dropdown.
+! From https://gist.github.com/Swyter/7b7da983f5dd025229d116b8468cea99.
+github.com##button[data-testid="open-in-copilot-agent-button"]:upward(div[data-testid="sidebar-section"])
+github.com##a[href="/settings/copilot"] svg.octicon-copilot:upward(li[class*="prc-ActionList-ActionListItem"])
