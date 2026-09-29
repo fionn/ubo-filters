@@ -31,3 +31,4 @@ objective-see.com##.blogContent > div:nth-of-type(4)
 ! From https://gist.github.com/Swyter/7b7da983f5dd025229d116b8468cea99.
 github.com##button[data-testid="open-in-copilot-agent-button"]:upward(div[data-testid="sidebar-section"])
 github.com##a[href="/settings/copilot"] svg.octicon-copilot:upward(li[class*="prc-ActionList-ActionListItem"])
+github.com##button[aria-label="Your organization can pay for GitHub Copilot"]:upward(div[class="react-code-size-details-in-header"])
