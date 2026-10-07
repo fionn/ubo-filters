@@ -33,3 +33,5 @@ github.com##button[data-testid="open-in-copilot-agent-button"]:upward(div[data-t
 github.com##a[href="/settings/copilot"] svg.octicon-copilot:upward(li[class*="prc-ActionList-ActionListItem"])
 github.com##button[aria-label="Your organization can pay for GitHub Copilot"]:upward(div[class="react-code-size-details-in-header"])
 github.com##span[class*="CopilotAppOpenAction-module"]:upward(button[class*=prc-ActionList-ActionListContent])
+
+dash.cloudflare.com##span:has-text(Onboard your agent to Cloudflare):upward(button)
