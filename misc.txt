@@ -37,3 +37,4 @@ dash.cloudflare.com##span:has-text(Onboard your agent to Cloudflare):upward(butt
 stackoverflow.com##.js-use-with-ai-button
 stackoverflow.com##aside[aria-label="Stack Overflow for Agents"]
 stackoverflow.com##pre>div
+stackoverflow.com##.js-zone-container
