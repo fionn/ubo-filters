@@ -1,7 +1,7 @@
 ! Title: Miscellaneous
 ! Description: Collection of cosmetic filters that improve various websites
 ! Version: 0.0.1
-! Last modified: 2025-11-10
+! Last modified: 2026-11-24
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/fionn/ubo-filters
 
