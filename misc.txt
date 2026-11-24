@@ -35,3 +35,4 @@ github.com##span[class*="CopilotAppOpenAction-module"]:upward(button[class*=prc-
 dash.cloudflare.com##span:has-text(Onboard your agent to Cloudflare):upward(button)
 
 stackoverflow.com##.js-use-with-ai-button
+stackoverflow.com##aside[aria-label="Stack Overflow for Agents"]
