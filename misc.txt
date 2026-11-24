@@ -35,3 +35,5 @@ github.com##button[aria-label="Your organization can pay for GitHub Copilot"]:up
 github.com##span[class*="CopilotAppOpenAction-module"]:upward(button[class*=prc-ActionList-ActionListContent])
 
 dash.cloudflare.com##span:has-text(Onboard your agent to Cloudflare):upward(button)
+
+stackoverflow.com##.js-use-with-ai-button
