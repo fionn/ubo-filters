@@ -21,8 +21,6 @@ www.keybr.com##.Supporter--size-970x90.Supporter > .Supporter-placeholder
 
 www.openstreetmap.org##.visible.welcome
 
-developers.google.com##.devsite-banner-announcement.devsite-banner
-
 www.newyorker.com##.paywall-bar__expanded.paywall-bar__wrapper
 
 objective-see.com##.blogContent > div:nth-of-type(4)
